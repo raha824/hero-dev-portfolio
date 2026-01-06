@@ -89,5 +89,35 @@ nav{
     vertical-align: middle;
 }
     
+#about{
+    padding-top: 130px;
 
-    
+}
+#about .about-info{
+    width: 71%;
+    max-width: 1140px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
+}
+ #about .about-info .card-info{
+    display: flex;
+    justify-content: space-around;
+
+}
+   .info h2{
+    margin-bottom: 30px;
+    font-size: 65px;
+   }
+   .info p{
+    margin-bottom: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #757575;
+}
+.card-info .card p{
+    color: #757575;
+
+}
+   
